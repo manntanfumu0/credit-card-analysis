@@ -55,7 +55,8 @@ O dashboard apresenta uma visão executiva com:
 - Renda média
 - Score médio
 - Análise de risco por perfil
-![Dashboard](dashboarddashboard.png)
+<img width="1568" height="860" alt="image" src="https://github.com/user-attachments/assets/93d8375d-c446-4696-a15e-048e9431e928" />
+
 
 ---
 
