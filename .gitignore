@@ -1,5 +1,14 @@
-data/processed/
+# Ambiente virtual
 .venv/
-.ipynb_checkpoints/
+**/.venv/
+
+# Ficheiros temporários do Python
 __pycache__/
-credit-card-analysis/
+*.py[cod]
+
+# Checkpoints do Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Repositório duplicado criado por engano
+/credit-card-analysis/
