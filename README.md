@@ -1,4 +1,4 @@
-# 📊 Risco de Crédito: do Credit Approval Analytics à Política de Cutoff
+# 📊 Credit Approval Analytics à Política de Cutoff
 
 > **Pergunta de negócio:** como reduzir a inadimplência sem derrubar a taxa de aprovação? **Qual é o melhor ponto de corte (cutoff) de score?**
 
