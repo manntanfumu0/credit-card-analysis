@@ -2,3 +2,4 @@ data/processed/
 .venv/
 .ipynb_checkpoints/
 __pycache__/
+credit-card-analysis/
